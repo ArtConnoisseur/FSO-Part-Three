@@ -1,0 +1,482 @@
+POST http://localhost:3001/api/persons
+Content-Type: application/json
+Content-Length: 53
+User-Agent: IntelliJ HTTP Client/WebStorm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: key=first-value
+
+{
+  "name": "New Name",
+  "number": "98-000928-198"
+}
+
+<> 2024-09-23T025459.201.json
+
+###
+
+DELETE http://localhost:3001/api/persons/delete/2
+User-Agent: IntelliJ HTTP Client/WebStorm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+###
+
+DELETE http://localhost:3001/api/persons/delete/2
+User-Agent: IntelliJ HTTP Client/WebStorm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+###
+
+POST http://localhost:3001/api/persons
+Content-Type: application/json
+Content-Length: 53
+User-Agent: IntelliJ HTTP Client/WebStorm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: key=first-value
+
+{
+  "name": "New Name",
+  "number": "98-000928-198"
+}
+
+<> 2024-09-23T024002.201.json
+
+###
+
+POST http://localhost:3001/api/persons
+Content-Type: application/json
+Content-Length: 53
+User-Agent: IntelliJ HTTP Client/WebStorm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: key=first-value
+
+{
+  "name": "New Name",
+  "number": "98-000928-198"
+}
+
+<> 2024-09-23T022153.201.json
+
+###
+
+DELETE http://localhost:3001/api/persons/delete/2
+User-Agent: IntelliJ HTTP Client/WebStorm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+###
+
+POST http://localhost:3001/api/persons
+Content-Type: application/json
+Content-Length: 53
+User-Agent: IntelliJ HTTP Client/WebStorm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: key=first-value
+
+{
+  "name": "New Name",
+  "number": "98-000928-198"
+}
+
+<> 2024-09-23T020157.201.json
+
+###
+
+POST http://localhost:3001/api/persons
+Content-Type: application/json
+Content-Length: 53
+User-Agent: IntelliJ HTTP Client/WebStorm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: key=first-value
+
+{
+  "name": "New Name",
+  "number": "98-000928-198"
+}
+
+<> 2024-09-23T020111.201.json
+
+###
+
+POST http://localhost:3001/api/persons
+Content-Type: application/json
+Content-Length: 42
+User-Agent: IntelliJ HTTP Client/WebStorm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: key=first-value
+
+{
+  "key" : "value",
+  "list": [1, 2, 3]
+}
+
+<> 2024-09-23T014606.200.html
+
+###
+
+POST http://localhost:3001/api/persons
+Content-Type: application/json
+Content-Length: 42
+User-Agent: IntelliJ HTTP Client/WebStorm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: key=first-value
+
+{
+  "key" : "value",
+  "list": [1, 2, 3]
+}
+
+<> 2024-09-23T014411.200.html
+
+###
+
+POST http://localhost:3001/api/persons
+Content-Type: application/json
+Content-Length: 42
+User-Agent: IntelliJ HTTP Client/WebStorm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: key=first-value
+
+{
+  "key" : "value",
+  "list": [1, 2, 3]
+}
+
+<> 2024-09-23T014122.200.html
+
+###
+
+POST http://localhost:3001/api/persons
+Content-Type: application/json
+Content-Length: 42
+User-Agent: IntelliJ HTTP Client/WebStorm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: key=first-value
+
+{
+  "key" : "value",
+  "list": [1, 2, 3]
+}
+
+<> 2024-09-23T013357.200.html
+
+###
+
+POST http://localhost:3001/api/persons
+Content-Type: application/json
+Content-Length: 38
+User-Agent: IntelliJ HTTP Client/WebStorm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: key=first-value
+
+{ "key" : "value", "list": [1, 2, 3] }
+
+<> 2024-09-23T012825.200.html
+
+###
+
+POST http://localhost:3001/api/persons/add
+Content-Type: application/json
+Content-Length: 38
+User-Agent: IntelliJ HTTP Client/WebStorm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: key=first-value
+
+{ "key" : "value", "list": [1, 2, 3] }
+
+<> 2024-09-23T012756.404.html
+
+###
+
+DELETE http://localhost:3001/api/persons/delete/2
+User-Agent: IntelliJ HTTP Client/WebStorm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+###
+
+POST http://localhost:3001/api/persons/add
+Content-Type: application/json
+Content-Length: 38
+User-Agent: IntelliJ HTTP Client/WebStorm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: key=first-value
+
+{ "key" : "value", "list": [1, 2, 3] }
+
+<> 2024-09-23T012445.200.html
+
+###
+
+POST http://localhost:3001/api/persons/add
+Content-Type: application/json
+Content-Length: 38
+User-Agent: IntelliJ HTTP Client/WebStorm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: key=first-value
+
+{ "key" : "value", "list": [1, 2, 3] }
+
+<> 2024-09-23T012439.200.html
+
+###
+
+POST http://localhost:3001/api/persons/add
+Content-Type: application/json
+Content-Length: 38
+User-Agent: IntelliJ HTTP Client/WebStorm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: key=first-value
+
+{ "key" : "value", "list": [1, 2, 3] }
+
+###
+
+POST http://localhost:3001/api/person/add
+Content-Type: application/json
+Content-Length: 38
+User-Agent: IntelliJ HTTP Client/WebStorm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: key=first-value
+
+{ "key" : "value", "list": [1, 2, 3] }
+
+<> 2024-09-23T011615.404.html
+
+###
+
+POST http://localhost:3001/api/persons/add
+Content-Type: application/json
+Content-Length: 38
+User-Agent: IntelliJ HTTP Client/WebStorm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: key=first-value
+upgrade: h2c
+HTTP2-Settings: AAEAABAAAAIAAAABAAN_____AAQAAP__AAUAAEAAAAYAACAA
+connection: HTTP2-Settings,upgrade
+
+{ "key" : "value", "list": [1, 2, 3] }
+
+###
+
+POST http://localhost:3001/api/persons/add
+Content-Type: application/json
+Content-Length: 38
+User-Agent: IntelliJ HTTP Client/WebStorm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: key=first-value
+
+{ "key" : "value", "list": [1, 2, 3] }
+
+###
+
+POST http://localhost:3001/api/persons/add
+Content-Type: application/json
+Content-Length: 38
+User-Agent: IntelliJ HTTP Client/WebStorm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+Cookie: key=first-value
+
+{ "key" : "value", "list": [1, 2, 3] }
+
+###
+
+POST http://localhost:3001/api/persons/add
+Content-Type: 'application/json'
+Content-Length: 38
+User-Agent: IntelliJ HTTP Client/WebStorm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{ "key" : "value", "list": [1, 2, 3] }
+
+###
+
+POST http://localhost:3001/api/persons/add
+Content-Type: 'application/json'
+Content-Length: 38
+User-Agent: IntelliJ HTTP Client/WebStorm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{ "key" : "value", "list": [1, 2, 3] }
+
+###
+
+POST http://localhost:3001/api/persons/add
+Content-Type: 'application/json'
+Content-Length: 38
+User-Agent: IntelliJ HTTP Client/WebStorm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{ "key" : "value", "list": [1, 2, 3] }
+
+###
+
+POST http://localhost:3001/api/persons/add
+Content-Type: 'application/json'
+Content-Length: 38
+User-Agent: IntelliJ HTTP Client/WebStorm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{ "key" : "value", "list": [1, 2, 3] }
+
+###
+
+POST http://localhost:3001/api/persons/add
+Content-Type: 'application/json'
+Content-Length: 38
+User-Agent: IntelliJ HTTP Client/WebStorm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{ "key" : "value", "list": [1, 2, 3] }
+
+###
+
+POST http://localhost:3001/api/persons/add
+Content-Type: 'application/json'
+Content-Length: 38
+User-Agent: IntelliJ HTTP Client/WebStorm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{ "key" : "value", "list": [1, 2, 3] }
+
+###
+
+POST http://localhost:3001/api/persons/add
+Content-Type: 'application/json'
+Content-Length: 38
+User-Agent: IntelliJ HTTP Client/WebStorm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{ "key" : "value", "list": [1, 2, 3] }
+
+###
+
+POST http://localhost:3001/api/persons/add
+Content-Type: 'application/json'
+Content-Length: 38
+User-Agent: IntelliJ HTTP Client/WebStorm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{ "key" : "value", "list": [1, 2, 3] }
+
+<> 2024-09-23T004534.200.html
+
+###
+
+POST http://localhost:3001/api/persons/add
+Content-Type: 'application/json';
+Content-Length: 38
+User-Agent: IntelliJ HTTP Client/WebStorm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{ "key" : "value", "list": [1, 2, 3] }
+
+<> 2024-09-23T004443.200.html
+
+###
+
+POST http://localhost:3001/api/persons/add
+Content-Type: 'application/json';
+Content-Length: 38
+User-Agent: IntelliJ HTTP Client/WebStorm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{ "key" : "value", "list": [1, 2, 3] }
+
+<> 2024-09-23T004424.500.html
+
+###
+
+POST http://localhost:3001/api/persons/add
+Content-Type: 'application/json';
+Content-Length: 38
+User-Agent: IntelliJ HTTP Client/WebStorm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{ "key" : "value", "list": [1, 2, 3] }
+
+<> 2024-09-23T004242.200.html
+
+###
+
+POST http://localhost:3001/api/persons/add
+Content-Type: 'application/json';
+Content-Length: 38
+User-Agent: IntelliJ HTTP Client/WebStorm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{ "key" : "value", "list": [1, 2, 3] }
+
+<> 2024-09-23T004217.200.html
+
+###
+
+POST http://localhost:3001/api/persons/add
+Content-Type: 'application/json';
+Content-Length: 38
+User-Agent: IntelliJ HTTP Client/WebStorm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{ "key" : "value", "list": [1, 2, 3] }
+
+<> 2024-09-23T004126.200.html
+
+###
+
+POST http://localhost:3001/api/persons/add
+Content-Type: 'application/json';
+Content-Length: 38
+User-Agent: IntelliJ HTTP Client/WebStorm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{ "key" : "value", "list": [1, 2, 3] }
+
+<> 2024-09-23T004111.200.html
+
+###
+
+DELETE http://localhost:3001/api/persons/delete/2
+User-Agent: IntelliJ HTTP Client/WebStorm 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+###
+

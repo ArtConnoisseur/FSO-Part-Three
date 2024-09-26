@@ -4,8 +4,16 @@
   "description": "really? backend practice for full stack open",
   "main": "index.js",
   "scripts": {
-    "test": "dev"
+    "dev": "nodemon index.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "morgan": "^1.10.0"
+  }
 }
